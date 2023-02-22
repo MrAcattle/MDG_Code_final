@@ -1,0 +1,9 @@
+1、In utils.py are some of the tool functions
+
+2、teCnnDataset.py is the TEP dataset wrapper code for CNN training
+
+3、tepNoDynamicDateset.py is the TEP dataset wrapper code for PTCN training
+
+4、tepDateset.py is the TEP dataset with dynamic weights wrapper code for MDGCN training
+
+5、The file starting with TE is some model training test code
